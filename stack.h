@@ -1,5 +1,6 @@
 #ifndef STACK_H
 #define STACK_H
+#define WASTE 0
 #include <stdbool.h> 
 
 typedef int Item;
